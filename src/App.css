@@ -1,5 +1,5 @@
 body {
-  background-color: antiquewhite;
+  background-color: #000000 !important;
 }
 
 .grid {
@@ -10,12 +10,13 @@ body {
 
 .box {
   width: auto;
-  height: 100px;
+  height: 130px;
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 .icon {
-  font-size: 35px;
-  color: #ffffff;
+  font-size: 40px;
+  color: #000000;
 }
